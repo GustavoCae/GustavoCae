@@ -1,6 +1,3 @@
-<Head>
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</Head>
 <h4 align="left">About me</h4>
 
 ###
@@ -39,6 +36,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30px" alt="linkedin logo"  />
   </a>
 </div>
+
+# 📊 GitHub Stats:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=radical" height="150" alt="stats graph"  />
