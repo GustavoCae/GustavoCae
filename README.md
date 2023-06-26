@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-!https://img.shields.io/badge/any_text-you_like-blue
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocae&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
