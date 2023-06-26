@@ -4,7 +4,7 @@
 
 <p align="left">I am a frontend developer currently living in São Paulo, Brazil.<br><br>-  I love games, it's my real passion;<br>-  I'm currently looking for my first job as a developer.</p>
 
-###
+#
 
 ---
 
@@ -23,14 +23,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
                  
 </div>
 
-#
-
-
-
 <br>
-
----
-
+#
 <h4 align="left">🌐 Socials:</h4>
 
 ###
@@ -41,7 +35,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
   </a>
 </div>
 
----
+#
 
 <h4 align="left">📊 GitHub Stats:</h4>
 
