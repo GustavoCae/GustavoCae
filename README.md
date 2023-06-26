@@ -21,6 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocae&&theme=radical" height="150" alt="languages graph"  />
+</div>
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocae&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
