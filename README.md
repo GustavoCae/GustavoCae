@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a frontend developer currently living in São Paulo, Brazil.<br>- 👾 I love games, it's my real passion;<br>- 🔭 I'm currently looking for my first job as a developer.</p>
+<p align="left">I am a frontend developer currently living in São Paulo, Brazil.<br><br>-  I love games, it's my real passion;<br>-  I'm currently looking for my first job as a developer.</p>
 
 ###
 
