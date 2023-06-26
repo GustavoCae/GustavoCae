@@ -37,7 +37,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
   </a>
 </div>
 
-# 📊 GitHub Stats:
+<h4 align="left">📊 GitHub Stats:</h4>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=radical" height="150" alt="stats graph"  />
