@@ -1,14 +1,10 @@
 <h4 align="left">About me</h4>
 
-###
-
 <p align="left">I'm a frontend developer currently living in São Paulo, Brazil. I'm currently looking foward to get my first job as a developer and i've been working hard to sharpen my developement skills<p/>
 
 #
 
 <h4 align="left">⚡ Languages and tools</h4>
-
-###
 
 <div align="left">
 
@@ -27,8 +23,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 
 <h4 align="left">🌐 Socials:</h4>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-cae" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30px" alt="linkedin logo"  />
@@ -44,4 +38,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocae&&theme=neon" height="150" alt="languages graph"  />
 </div>
 
-<!--
