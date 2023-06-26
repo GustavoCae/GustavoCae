@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 ###
 
 <br>
-<h4 align="left">Other links</h4>
+<h4 align="left">🌐 Socials:</h4>
 
 ###
 
