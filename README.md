@@ -6,8 +6,6 @@
 
 #
 
----
-
 <h4 align="left">⚡ Languages and tools</h4>
 
 ###
