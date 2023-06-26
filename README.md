@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-cae" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -10,7 +8,7 @@
 
 ###
 
-<p align="left">I am a frontend developer currently living in São Paulo, Brazil.<br><br>- 👾 I love games, it's my real passion;<br><br>- 🔭 I'm currently looking for my first job as a developer.</p>
+<p align="left">I am a frontend developer currently living in São Paulo, Brazil.<br>- 👾 I love games, it's my real passion;<br>- 🔭 I'm currently looking for my first job as a developer.</p>
 
 ###
 
