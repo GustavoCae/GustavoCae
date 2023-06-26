@@ -1,3 +1,6 @@
+<Head>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</Head>
 <h4 align="left">About me</h4>
 
 ###
@@ -6,13 +9,12 @@
 
 ###
 
-<h4 align="left">My favorite tech stack and tools</h4>
+<h4 align="left">Languages and tools</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+            <i class="devicon-javascript-plain colored"></i>
 </div>
 
 ###
