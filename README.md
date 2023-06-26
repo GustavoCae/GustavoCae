@@ -40,8 +40,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 <h4 align="left">📊 GitHub Stats:</h4>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocae&&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=neon" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocae&&theme=neon" height="150" alt="languages graph"  />
 </div>
 
 <!--
