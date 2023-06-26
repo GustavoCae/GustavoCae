@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">Languages and tools</h4>
+<h4 align="left">⚡ Languages and tools</h4>
 
 ###
 
