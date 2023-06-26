@@ -21,6 +21,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
+###
+
+<h4 align="left">Other links</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-cae" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavocae&show_icons=true&theme=radical" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocae&&theme=radical" height="150" alt="languages graph"  />
