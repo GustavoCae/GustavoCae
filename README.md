@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 <h4 align="left">📊 GitHub Stats:</h4>
 
 <div align="left">
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=gustavocae&theme=neon&hide_border=false&include_all_commits=false&count_private=false"   />
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=gustavocae&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="500px"  />
   <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=gustavocae&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 </div>
 
