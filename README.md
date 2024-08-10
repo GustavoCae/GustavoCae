@@ -1,6 +1,6 @@
 <h4 align="left">About me</h4>
 
-<p align="left">I'm a frontend developer currently living in São Paulo, Brazil. I'm currently looking foward to get my first job as a developer and i've been working hard to sharpen my developement skills<p/>
+<p align="left">I'm a backend developer currently living in São Paulo, Brazil. I'm currently looking foward to get my first job as a developer and i've been working hard to sharpen my developement skills<p/>
 
 #
 
